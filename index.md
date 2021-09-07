@@ -1,36 +1,28 @@
 ---
-draft: false
-title: "Insider-Resistant Context-Based Pairing (SIENNA) for Multimodality Sleep Apnea Test"
+draft: true
+title: "V2SX: Integrate mmWave Vehicular Communication with Radar Sensing"
 
-subtitle: "EEx96, Spring, 2021"
+subtitle: "Vertically Integrated Project (VIP), Spring 2022 - present"
 
-summary: "This EEx96 project implements SIENNA: a context-based pairing protocol for reliable multimodality sleep apnea screening tests."
+summary: "This VIP project aims to develop mmWave communication systems with integrated radar sensing functionality to address the coexistence challenge between vehicular communication and automative radar sensors operating at mmWave spectrum."
 
 tags:
-- obstructive sleep apnea
-- at-home screening
-- multimodalty
-- device pairing
-- friendly jamming
-- fuzzy commitment
-- JADE ICA
-- yao xor lemma
-- eavesdropper
-- spoofing
-- polysomnography
-- active project
-- active eex96 project
+- autonomous vehicle
+- v2x
+- mmwave communication
+- mmwave sensing
+- los mimo
+#- active project
+#- active VIP project
 
-date: 2021-05-16T00:00:00-10:00
+date: 2021-09-02T00:00:00-10:00
 
 authors:
-- Stephanie Aelmore
-- Samson Aggelopoulos
-- Willy Chang
-- Brian Lu
-- Marionne Millan
-- Alana Power
 - Yao Zheng
+- Yingfei Dong
+- Aaron Ohta
+- Wayne Shiroma
+- June Zhang
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -53,13 +45,13 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 - name: CRN
-  url: ./project/research/x96_multi_moda_pair_sienna/#logistics
-- name: PUB
-  url: ./publication/zheng-insider-resistant-context-based-pairing-2021/
-- name: Slides
-  url: https://github.com/gustybear-research/conf_globecom_multi_moda_dev_pair/raw/main/presentation/EE496%20Poster_%20SIENNA.pdf
-- name: Dataset
-  url: https://github.com/gustybear-research/x96_wirles_physllgcl_sensing
+  url: ./project/research/vip_mmwave_comm_and_sensg_integtn/#logistics
+#- name: PUB
+#  url: ./publication/zheng-insider-resistant-context-based-pairing-2021/
+#- name: Slides
+#  url: https://github.com/gustybear-research/conf_globecom_multi_moda_dev_pair/raw/main/presentation/EE496%20Poster_%20SIENNA.pdf
+#- name: Dataset
+#  url: https://github.com/gustybear-research/x96_wirles_physllgcl_sensing
 
 
 
