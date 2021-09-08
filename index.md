@@ -82,13 +82,13 @@ Multi-Target Radar Sensing with CSI and DPS. This thrust aims to explore the mul
 Reliable Multi-Beam mmWave V2X Network with Predictive IA. This thrust aims to exploit the trajectory information acquired through radar sensing to achieve interference alignment (IA) for mmWave MIMO communication in a high-mobility environment [6]–[8]. The design predicts the channel changes based on the relative speed and range between the transmitter and receiver and lets the transmitter precode the transmission along each beam to minimize the interferences at the receiver side, which maximizes the MIMO spatial multiplexing gain.
 
 ***
+
 # Logistics
 - **CRN**
 | EE196 | EE296 | EE396 | EE496 |
 | ---   | ---   | ---   | ---   |
 | 90737 | 90738 | 90739 | 90740 |
  ***
-
 
 # Research Issues 
  Design an integrated sensing and communication (ISAC) system for V2X network using mmWave MIMO and deliver accurate radar sensing and reliable communication in a high-mobility environment. Includes three complimentary thrusts: Improve mmWave MIMO Channel Condition with IRS (intelligent reflecting surface), Multi-Target Radar Sensing with CSI (channel state information) and DPS (doppler power spectrum), and reliable Multi-Beam mmWave V2X Network with Predictive IA. 
@@ -103,5 +103,16 @@ Reliable Multi-Beam mmWave V2X Network with Predictive IA. This thrust aims to e
 ***
 
 # Partners and Sponsors
-This project is partially supported NSF grants CNS-1948568, W911NF-19-1-0050, IIP-1831303, IIS-1915738 and TMYTEK mmWave research initiative.
+
+***
+
+# Majors
+-EE
+
+***
+
+# Contact Info
+
+
+***
 
