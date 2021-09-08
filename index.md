@@ -45,7 +45,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 - name: CRN
-url: ./project/research/vip_mmwave_comm_and_sensg_integtn/#logistics
+  url: ./project/research/vip_mmwave_comm_and_sensg_integtn/#logistics
 #- name: PUB
 #  url: ./publication/zheng-insider-resistant-context-based-pairing-2021/
 #- name: Slides
