@@ -83,11 +83,17 @@ Reliable Multi-Beam mmWave V2X Network with Predictive IA. This thrust aims to e
 
 ***
 
-# Logistics
+# Logistics {#logistics}
 - **CRN**
 | EE196 | EE296 | EE396 | EE496 |
 | ---   | ---   | ---   | ---   |
 | 90737 | 90738 | 90739 | 90740 |
+
+- **Personnel**:
+|                                                    |                                             |
+| ----                                               | ---                                         |
+| Lecturer: [Yao Zheng](mailto:yao.zheng@hawaii.edu) | Office Hours: see [here](../../../#contact) |
+
  ***
 
 # Research Issues 
