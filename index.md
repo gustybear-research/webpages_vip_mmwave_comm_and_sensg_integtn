@@ -33,11 +33,11 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  placement: 3
-  caption: ""
-  focal_point: "Center"
-  preview_only: true
-  alt_text: " "
+placement: 3
+caption: ""
+focal_point: "Center"
+preview_only: true
+alt_text: " "
 
 links:
 #- icon: twitter
@@ -45,9 +45,25 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 - name: CRN
-  url: ./project/research/vip_mmwave_comm_and_sensg_integtn/#logistics
-#- name: PUB
+url: ./project/research/x96_multi_moda_pair_sienna/#logistics
+- name: PUB
+url: ./publication/zheng-insider-resistant-context-based-pairing-2021/
+- name: Slides
+url: https://github.com/gustybear-research/conf_globecom_multi_moda_dev_pair/raw/main/presentation/EE496%20Poster_%20SIENNA.pdf
+- name: Dataset
+url: https://github.com/gustybear-research/x96_wirles_physllgcl_sensing
 
+
+
+# Markdown Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+
+gallery_item:
+---
 ***
 # Project Summary
  As autonomous vehicles revolutionize our transportation ecosystem, Millimeter-wave (mmWave) communication is a promising technology to meet the data rate demand of V2X (vehicle to everything) networks. This project aims to design an integrated sensing and communication (ISAC) system for V2X network using mmWave MIMO (multiple-input and multiple-output) to deliver accurate radar sensing and reliable communication in a high-mobility environment. 
