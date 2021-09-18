@@ -4,7 +4,7 @@ title: "V2SX: Integrate mmWave Vehicular Communication with Radar Sensing"
 
 subtitle: "Vertically Integrated Project (VIP), Spring 2022 - present"
 
-summary: "This project aims to develop mmWave communication systems with integrated radar sensing functionality to address the coexistence challenge between vehicular communication and automative radar sensors operating within the mmWave spectrum."
+summary: "This VIP project aims to develop mmWave communication systems with integrated radar sensing functionality for autonomous vehicles."
 
 tags:
 - autonomous vehicle
