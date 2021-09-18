@@ -24,7 +24,7 @@ authors:
 - Yao Zheng
 - Yingfei Dong
 - Aaron Ohta
-- Wayne Shiroma
+- Wayne A. Shiroma
 - June Zhang
 
 # Optional external URL for project (replaces project detail page).
@@ -86,9 +86,9 @@ This project aims to design a millimeter-wave (mmWave) V2X (vehicle to everythin
 
  ***
 # Research Issues 
- Increase mmWave Channel Multipath: The mmWave channel lacks multipath, which precludes effective MIMO spatial multiplexing and causes interference between communication and sensing functions. V2SX designs several low-cost vehicle-mounted reconfigurable reflective arrays to create artificial multipath. In addition, V2SX designs algorithms to adapt and configure the angle and spread of the reflecting multipath, hence maximizing the MIMO spatial multiplexing gain.
+**Increase mmWave Channel Multipath**: The mmWave channel lacks multipath, which precludes effective MIMO spatial multiplexing and causes interference between communication and sensing functions. V2SX designs several low-cost vehicle-mounted reconfigurable reflective arrays to create artificial multipath. In addition, V2SX designs algorithms to adapt and configure the angle and spread of the reflecting multipath, hence maximizing the MIMO spatial multiplexing gain.
 
-Decouple mmWave Channel Correlation: The exterior of a vehicle limits the spaces between MIMO antenna arrays, which correlates channel states among MIMO receptions and causes interference between communication and sensing functions. V2SX designs several reconfigurable antenna arrays with diverse beam patterns/directions to decouple channel correlations. Furthermore, V2SX designs algorithms to optimize the arrays' beam configurations based on the observed multipath profile, hence maximizing the MIMO channel condition.
+**Decouple mmWave Channel Correlation**: The exterior of a vehicle limits the spaces between MIMO antenna arrays, which correlates channel states among MIMO receptions and causes interference between communication and sensing functions. V2SX designs several reconfigurable antenna arrays with diverse beam patterns/directions to decouple channel correlations. Furthermore, V2SX designs algorithms to optimize the arrays' beam configurations based on the observed multipath profile, hence maximizing the MIMO channel condition.
  
 ***
 
