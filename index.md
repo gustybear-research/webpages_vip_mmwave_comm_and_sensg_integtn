@@ -76,12 +76,13 @@ This project aims to design a millimeter-wave (mmWave) V2X (vehicle to everythin
 - **CRN**
 | EE196 | EE296 | EE396 | EE496 |
 | ---   | ---   | ---   | ---   |
-| 90737 | 90738 | 90739 | 90740 |
+| TBD   | TBD   | TBD   | TBD   |
 
-- **Personnel**:
-|                                                    |                                             |
-| ----                                               | ---                                         |
-| Lecturer: [Yao Zheng](mailto:yao.zheng@hawaii.edu) | Office Hours: see [here](../../../#contact) |
+
+- **Format**:
+| Meeting Time    | Meeting Location                                   |
+| ----            | ---                                                |
+| R 3:00pm-6:00pm | HH488, [Zoom](https://hawaii.zoom.us/j/5764842348) |
 
  ***
 # Research Issues 
