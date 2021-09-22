@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "V2SX: Integrate mmWave Vehicular Communication with Radar Sensing"
+title: "Monet: Millimeter-wave Communication and Sensing Integration"
 
 subtitle: "Vertically Integrated Project (VIP), Spring 2022 - present"
 
@@ -9,6 +9,8 @@ summary: "This VIP project aims to develop mmWave communication systems with int
 tags:
 - autonomous vehicle
 - v2x
+- telemedicine
+- remote healthcare
 - multipath
 - phased array
 - reconfigurable MIMO
@@ -68,8 +70,7 @@ links:
 ---
 ***
 # Executive Summary
-This project aims to design a millimeter-wave (mmWave) V2X (vehicle to everything) communication system with integrated radar sensing capability for autonomous vehicles. As a promising technology, radio communication at mmWave frequencies, particularly between 24 to 32 GHz, can meet the data rate demand of V2X. Unfortunately, these bands are occupied by short-range radar sensors equally essential for autonomous vehicles. Introducing a separate V2X system in these bands would strain the spectrum congestion, leading to suboptimal performance for both communication and sensing. To address this issue, V2SX aims to unify mmWave radar and communication functions via the multiple-input and multiple-output (MIMO) technique augmented by vehicle-mounted reflective arrays to achieve reliability V2X communication and accurate radar ranging.
-
+This project aims to design a millimeter-wave (mmWave) communication system with integrated radar sensing capability. As a promising technology, radio communication at mmWave frequencies, particularly between 24 to 32 GHz, can meet the data rate demand of future generations of wireless networks. Unfortunately, the mmWave bands are often used by short-range radar sensors essential for applications such as autonomous vehicles and remote healthcare. Introducing a separate communication system in these bands would strain the spectrum congestion, leading to suboptimal performance for both communication and sensing. To address this issue, Monet aims to unify mmWave radar and communication functions via the multiple-input and multiple-output (MIMO) technique augmented by reconfigurable reflective arrays to achieve reliable communication and accurate radar sensing.
 ***
 
 # Logistics {#logistics}
@@ -86,9 +87,9 @@ This project aims to design a millimeter-wave (mmWave) V2X (vehicle to everythin
 
  ***
 # Research Issues 
-**Increase mmWave Channel Multipath**: The mmWave channel lacks multipath, which precludes effective MIMO spatial multiplexing and causes interference between communication and sensing functions. V2SX designs several low-cost vehicle-mounted reconfigurable reflective arrays to create artificial multipath. In addition, V2SX designs algorithms to adapt and configure the angle and spread of the reflecting multipath, hence maximizing the MIMO spatial multiplexing gain.
+**Increase mmWave Channel Multipath**: The mmWave channel lacks multipath, which precludes effective MIMO spatial multiplexing and causes interference between communication and sensing functions. Monet designs several low-cost reconfigurable reflective arrays to create artificial multipath and algorithms to control the angle and spread of the reflecting multipath, hence maximizing the MIMO spatial multiplexing gain.
 
-**Decouple mmWave Channel Correlation**: The exterior of a vehicle limits the spaces between MIMO antenna arrays, which correlates channel states among MIMO receptions and causes interference between communication and sensing functions. V2SX designs several reconfigurable antenna arrays with diverse beam patterns/directions to decouple channel correlations. Furthermore, V2SX designs algorithms to optimize the arrays' beam configurations based on the observed multipath profile, hence maximizing the MIMO channel condition.
+**Decouple mmWave Channel Correlation**: Many Monet applications provide limited space for MIMO antenna arrays, which correlates signal receptions and causes interference between communication and sensing functions. Monet designs several reconfigurable antenna arrays with diverse beam patterns/directions to decouple channel correlations and algorithms to optimize the arrays' beam configurations based on the observed multipath profile, hence maximizing the MIMO channel condition.
  
 ***
 
