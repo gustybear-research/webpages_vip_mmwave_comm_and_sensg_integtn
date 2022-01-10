@@ -17,8 +17,8 @@ tags:
 - rayleigh's criterion
 - intelligent reflecting surface
 - fresnel zone analysis
-#- active project
-#- active VIP project
+- active project
+- active vip project
 
 date: 2021-09-02T00:00:00-10:00
 
@@ -75,15 +75,15 @@ This project aims to design a millimeter-wave (mmWave) communication system with
 
 # Logistics {#logistics}
 - **CRN**
-| EE196 | EE296 | EE396 | EE496 |
-| ---   | ---   | ---   | ---   |
-| TBD   | TBD   | TBD   | TBD   |
+| ENGR196 | ENGR296 | ENGR396 | EE496 |
+| ---     | ---     | ---     | ---   |
+| 90034   | 90035   | 90036   | 85708 |
 
 
 - **Format**:
-| Meeting Time    | Meeting Location                                   |
-| ----            | ---                                                |
-| R 3:00pm-6:00pm | HH488, [Zoom](https://hawaii.zoom.us/j/5764842348) |
+| Meeting Time       | Meeting Location                                   |
+| ----               | ---                                                |
+| BI-R 5:00pm-6:00pm | HH488, [Zoom](https://hawaii.zoom.us/j/5764842348) |
 
  ***
 # Research Issues 
