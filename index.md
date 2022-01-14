@@ -9,8 +9,6 @@ summary: "This VIP project aims to develop mmWave communication systems with int
 tags:
 - autonomous vehicle
 - v2x
-- telemedicine
-- remote healthcare
 - multipath
 - phased array
 - reconfigurable MIMO
@@ -75,24 +73,66 @@ This project aims to design a millimeter-wave (mmWave) communication system with
 
 # Logistics {#logistics}
 - **CRN**
-| ENGR196 | ENGR296 | ENGR396 | EE496 |
-| ---     | ---     | ---     | ---   |
-| 90034   | 90035   | 90036   | 85708 |
+| Semester    | ENGR196 | ENGR296 | ENGR396 | EE496 |
+| ---         | ---     | ---     | ---     | ---   |
+| Spring 2022 | 90034   | 90035   | 90036   | 85708 |
 
+- **Personnel**
+| Advisor                                                                                                                          | Office Hours                |
+| ----                                                                                                                             | ---                         |
+| {{< spoiler text="[Yao Zheng](mailto:yao.zheng@hawaii.edu)">}} Email with ''[VIP MONET]'' in the subject line.{{< /spoiler >}} | See [here](../../../#contact) |
 
-- **Format**:
-| Meeting Time       | Meeting Location                                   |
+- **Meeting**:
+| Time               | Location                                           |
 | ----               | ---                                                |
 | BI-R 5:00pm-6:00pm | HH488, [Zoom](https://hawaii.zoom.us/j/5764842348) |
 
- ***
-# Research Issues 
-**Increase mmWave Channel Multipath**: The mmWave channel lacks multipath, which precludes effective MIMO spatial multiplexing and causes interference between communication and sensing functions. Monet designs several low-cost reconfigurable reflective arrays to create artificial multipath and algorithms to control the angle and spread of the reflecting multipath, hence maximizing the MIMO spatial multiplexing gain.
-
-**Decouple mmWave Channel Correlation**: Many Monet applications provide limited space for MIMO antenna arrays, which correlates signal receptions and causes interference between communication and sensing functions. Monet designs several reconfigurable antenna arrays with diverse beam patterns/directions to decouple channel correlations and algorithms to optimize the arrays' beam configurations based on the observed multipath profile, hence maximizing the MIMO channel condition.
+- **Workload**
+| ENGR196        | ENGR296        | ENGR396        | EE496[^1]          | Deliverables[^2]                                                                                            |
+| ---            | ---            | ---            | ---            | ---                                                                                                     |
+| $ \geq $ 3 H/W | $ \geq $ 3 H/W | $ \geq $ 6 H/W | $ \geq $ 8 H/W | {{< spoiler text="One per group">}} Indicate the authors of the appropriate sections.{{< /spoiler >}} |
  
+ ***
+
+# Grading
+
+- **General Breakdown**
+| Category                                                                                                                                                                                                                             | Portion of Grade |
+| ---                                                                                                                                                                                                                                  | ---              |
+| {{< spoiler text="1- Quality of project work">}} Engagement, pursuit of knowledge necessary for project, contributions to technical progress of project, (396 and 496: contributions to management of project). {{< /spoiler >}} | 35%                  |
+| {{< spoiler text="2- Documentation and records">}} Design notebook, wiki documentation, presentations, Reports. {{< /spoiler >}}                                                                                                   | 35%                |
+| {{< spoiler text="3- Teamwork and interaction">}} Attendance to meetings, contributions to team, peer evaluations, team presentations and reports {{< /spoiler >}}                                                                 | 30%                |
+
+- **Breakdown by Deliverable**
+| Deliverable                            | ENGR 196/296/396 | EE496/499 | Applicable Categories |
+| ---                                    | ---              | ---       | ---                   |
+| Project proposal report                | 10%              | 10%       | 1,2,3                 |
+| Preliminary design review presentation | 15%              | 20%       | 1,2,3                 |
+| Design notebook check                  | 10%              | 5%        | 1,2                   |
+| VIP poster session presentation        | 10%              | 15%       | 1,2,3                 |
+| Final report draft (proofed by peers)  | N/A              | N/A       | 1,2,3                 |
+| Final recorded video presentation      | 20%              | 25%       | 1,2,3                 |
+| Final report                           | 25%              | 15%       | 1,2,3                 |
+| Design notebook final check            | 10%              | 10%       | 1,2                   |
+
+- **Cutoffs**
+| A-     | B-    | C-    |
+| ------ | ----- | ----- |
+| 70%    | 50%   | 30%   |
+
 ***
+# Iterations
+| SEMESTER     | TOPICS                            | DOCUMENTS                    |
+| ---          | ---                               | ---                          |
+| Spring, 2022 | Measuring LoS mmWave MIMO Channel | [doc sp2022][doc sp2022 url] |
 
+ ***
 
+[^1]: This course adheres to UH Manoa W focus requirements, ECE Department requirements, so you are required to write 4,000 words or more throughout the semester, split between the proposal and the final report.
+
+[^2]: Reports should be uploaded to the GitHub repository before the deadline. Late reports are subject to a minimum 15% reduction in grade. Presentation files (PowerPoint or PDF) should be uploaded to the Github repository  before or immediately after your presentation. 
+
+[doc urls]: # (doc urls)
+[doc sp2022 url]: ../../../docs/reports/research_vip_mm_comm_sens_monet_2022_spring/
 
 
