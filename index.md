@@ -83,9 +83,9 @@ This project aims to design a millimeter-wave (mmWave) communication system with
 | {{< spoiler text="[Yao Zheng](mailto:yao.zheng@hawaii.edu)">}} Email with ''[VIP MONET]'' in the subject line.{{< /spoiler >}} | See [here](../../../#contact) |
 
 - **Meeting**:
-| Time               | Location                                           |
-| ----               | ---                                                |
-| BI-R 5:00pm-6:00pm | HH488, [Zoom](https://hawaii.zoom.us/j/5764842348) |
+| Time               | Location                                                                                  |
+| ----               | ---                                                                                       |
+| BI-R 5:00pm-6:00pm | HH488, [Zoom](https://hawaii.zoom.us/j/5764842348?pwd=cGdVMzBnOHlZbDkrNmErb0QxdTllUT09) |
 
 - **Workload**
 | ENGR196        | ENGR296        | ENGR396        | EE496[^1]          | Deliverables[^2]                                                                                            |
@@ -128,9 +128,9 @@ This project aims to design a millimeter-wave (mmWave) communication system with
 
  ***
 
-[^1]: This course adheres to UH Manoa W focus requirements, ECE Department requirements, so you are required to write 4,000 words or more throughout the semester, split between the proposal and the final report.
+[^1]: This course adheres to UH Manoa W focus requirements and ECE Department requirements. So you are required to write 4,000 words or more throughout the semester, split between the proposal and the final report.
 
-[^2]: Reports should be uploaded to the GitHub repository before the deadline. Late reports are subject to a minimum 15% reduction in grade. Presentation files (PowerPoint or PDF) should be uploaded to the Github repository  before or immediately after your presentation. 
+[^2]: Reports should be uploaded to the GitHub repository before the deadline. Late reports are subject to a minimum 15% reduction in grade. Presentation files (PowerPoint or PDF) should be uploaded to the Github repository before or immediately after your presentation. 
 
 [doc urls]: # (doc urls)
 [doc sp2022 url]: ../../../docs/reports/research_vip_mm_comm_sens_monet_2022_spring/
